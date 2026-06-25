@@ -1,4 +1,4 @@
-# dns-dl
+# dns-stager
 
 Deliver files over DNS TXT records. Works in isolated environments where HTTP/SSH/Git are blocked — as long as port 53 is open.
 
